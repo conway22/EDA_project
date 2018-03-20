@@ -7,3 +7,10 @@ The inputs include objective tests (e.g. PH values) and the
 output is based on sensory data (median of at least 3 evaluations
 made by wine experts). Each expert graded the wine quality
 between 0 (very bad) and 10 (very excellent).
+
+Summary of white wine attributes
+Coorelation matrix
+Matrix of scatterplots and univariate analysis
+univariate and bivariate plots
+Cohen's d
+Multivariate plots
